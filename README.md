@@ -5,7 +5,7 @@ This project is a database system intended to monitor and manage deliveries of g
 # Project Scenario
 This database is designed to handle the delivery logistics for a third-party grocery service that connects customers with multiple grocery stores. Customers can place orders through the service, which finds the required products at optimal prices and arranges for drone delivery. Upon successful delivery, payment is processed electronically from the customer to the store.
 
-#Methodology
+# Methodology
 The project started with creating an enhanced entity-relationship diagram (EERD) by mapping out entities like users, stores, orders, products, and drone. Following the mapping, relationships between the different entities were defined (one-to-many, many-to-many, etc) which was necessary for operational logistics. Detailed attributes for each entity with primary keys were identified for relational integrity.
 
 ![image](https://github.com/user-attachments/assets/b255e04b-ff29-44be-be13-efcb52f014af)
